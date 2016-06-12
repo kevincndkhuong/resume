@@ -1,6 +1,6 @@
 **CURRICULUM VITAE**
 ================
-+ Name:		**KHUONG** CHAU NGOC DUY  (Kevin)
++ Name:		**KHUONG** CHAU NGOC DUY  (**Kevin**)
 + Email: 		cndkhuong@gmail.com
 + Tel: 			+65-91904625
 + Married status: 	Married
@@ -25,18 +25,18 @@ ACHIEVEMENTS
 - Gain trust of colleagues
 - Be appreciated at work and nomination to higher position
 - Make and handle the deployment process as well as Test system for all projects in the current workplace
-- Possess knowledge of Insurance, Banking, Pay Gateway, Payroll, Reconcile, Horse racing, ...
-- Work with senior consultants to build CMMI3 and Agile methodology for company
+- Possess knowledge of eGoverment, Insurance, Banking, Pay Gateway, Payroll, Reconcile, Gamling, ...
+- Work with senior consultants to build CMMI3 and Agile methodology for company with lead position
 - Two years experienced in teaching Java Core and Web at Natural Science University Computer Center (Vietnam)
-- Over **10 years** experience in Software Development on Java and Oracle
-- Interest learn new technologies (studing on Android, Scala and Microservice pattern now)
+- Over **10 years** experience in Software Development on both Developer & Team leader role
+- Interest learn new technologies and methologies (studing on Android, Scala and Microservice pattern now)
 
 TECHNICAL SKILLS
 -----------------------
 - Language and Script: Java, Javascipt, Ruby, Scala...
 - Database: Oracle, MySQL, Postgres, DB2, NoSQL
 - Analysis and Design tools: Astah, Enterprise Architect
-- Configuration Management Tools: SVN & Git, Jira & Redmine, Sonar, Maven, Hudson & Jenkins
+- Configuration Management Tools: SVN ,Git & TFS, Jira ,Redmine & CA, Sonar, Maven, Hudson & Jenkins
 - Methodology: RUP & Agile(Scrum)
 - Office: Microsoft Office – Word, Excel, Power Point, Outlook, Visio and LibreOffice
 - Operation system : Windows, Linux, Android
@@ -54,7 +54,26 @@ TRAININGS ATTENDED
 
 PROFESSIONAL EXPERIENCES
 ------------------------------------
+
 **Crimson Logic – Singapore** (April 2015 - present)
+
+Senior Software Engineer (.NET)
+
+> **Intergration Project System (Internal)** : A internal projects manage system for company
+
+> | 				| 																|
+> | :-------------- | :------------------------------------------------------------ |
+> | Skill Set 		| - Language/Framework:  C#, MSSQL | ASP.NET MVC & Google chart 
+> |					| - Tools : Visual Studio, MSSQL, TFS, Azure
+> |					| - Environments : IIS, Window Server on cloud, IE/FF/Chrome
+> |	Position		| - Senior Software Engineer (Frontend & BatchJob & Database)
+> |	Responsibility	| - Develope application with C# on ASP.NET MVC framework
+> |					| - Delelope and deploy on Production , DEV environtments
+> |	Lessons Learned	| - Study about project management, planning, estimatation and tracking
+> |					| - C# language with ASP.NET MVC, MSSQL  
+> |					| - Cloud development with Azure
+
+**Crimson Logic – Singapore** (April 2015 - May 2016)
 
 Senior Software Engineer
 
@@ -62,12 +81,12 @@ Senior Software Engineer
 
 > | 				| 																|
 > | :-------------- | :------------------------------------------------------------ |
-> | Skill Set 		| - Language/Framework:  Java Spring, Quartz & DB2  
-> |					| - Tools : QA tool, Eclipse, IBM Studio DB2
-> |					| - Environments : JBoss, Linux/Window, IE/FF/Chrome
+> | Skill Set 		| - Language/Framework:  Java Spring, Quartz
+> |					| - Tools : QA tool, Eclipse, IBM Studio DB2 
+> |					| - Environments : JBoss, Linux, IE/FF/Chrome
 > |	Position		| - Senior Software Engineer (Frontend & BatchJob & Database)
-> |	Responsibility	| - Frontend with Java based on Spring framework, BatchJob used Quartz, Webservice (JSON) with CXF
-> |					| - Maintain and develope on Production & UAT environtment
+> |	Responsibility	| - Architect and develope application Java based on Spring framework, BatchJob used Quartz, Webservice (JSON) with CXF
+> |					| - Maintenence and explaining on Production , SIT & UAT environtments
 > |	Lessons Learned	| - Study about goverment domain
 > |					| - DB2 data patch & maintain 
 > |					| - Investigate user problem by following the data flow
@@ -85,7 +104,7 @@ Senior Application Consultant - Key Member
 > |					| - Tools : Redmine, Jenkins, SVN, Netbeans
 > |					| - Environments : MySQL, Glassfish, Linux/Window, IE/Firefox/Safari/Chrome
 > |	Position		| - Senior Developer (Frontend & Backend)
-> |	Responsibility	| - Frontend with HTML/CSS/Javascript & GWT, Backend with Spring & J2EE
+> |	Responsibility	| - Design and programming Frontend with HTML/CSS/Javascript & GWT, Backend with Spring & J2EE
 > |					| - Build and deploy system with Maven, Jenkins and SVN
 > |	Lessons Learned	| - Study about betting online domain
 > |					| - Experienced on UI (JS/HTML/CS,GWT) with event base use observer
@@ -131,7 +150,7 @@ Senior Application Consultant – Key Member
 > | 				| - Build & support Maven, Nexus, Sonar, Unittest, Loadtest for development team
 > |					| - Building and coding framework
 > |					| - Review, update, fix defects, and maintain the stable code for the application
-> |					| - Connect & authenticate on partner connection
+> |					| - Design client/server connecting with authenticated on partners (gas, water, electricity, payment services, ...)
 > |	Lessons Learned	| - Study about banking domain, payment method & ISO8583 standard transaction 
 > |					| - Structure of large system with module, communicate together by remote protocols & event (EIP)
 > |					| - Structure of client-server and API exposure with socket, web service & ISO8583 standard 
